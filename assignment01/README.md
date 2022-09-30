@@ -5,3 +5,6 @@
 
 This project is about...
 
+insert link to github project here
+
+![screen shot of npr](../npr.png)
