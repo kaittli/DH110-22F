@@ -3,8 +3,6 @@
 ## Life Below Water Project
 ### Kaitlyn Li in DH110
 
-This project is about...
+This project is about the UN "Life Below Water" sustainable goal
 
-insert link to github project here
-
-![screen shot of npr](../npr.png)
+![screen shot of UN](../screenshotofUN.png)
