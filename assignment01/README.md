@@ -31,7 +31,7 @@ The chart below displays the 10 heuristics that will be employed in the evaulati
 ### About 
 Blue Ocean Society is a nonprofit organization that works to protect marine life in the Gulf of Maine through researching different marine species’ behaviors, especially whales, and aiding in different cleanup restoration projects. They stress the importance of tackling pollution as a threat to ocean ecosystems as plastic and other types of debris can be ingested by animals. Specific sustainability practices are also promoted by them, such as recycling pieces of fishing lines that wash up to shore by placing bins on beaches. 
 
-![screen shot of Blue Ocean website](assets/blueocean.png)
+![screen shot of Blue Ocean website](blueocean.png)
 
 ### Heuristic Evaluation 
 #### 1. Visibility of System Status
@@ -49,7 +49,9 @@ Blue Ocean Society is a nonprofit organization that works to protect marine life
 ## Website 2: [OceanCare](https://www.oceancare.org/en/startpage/)
 ### About
 OceanCare is an organization devoted to protecting marine wildlife and related issues endangering them. Passionate about the safety of the oceans, OceanCare partners with international organizations to formulate treaties and actions against the mistreatment of the oceans and the species home to them. For animals harmed by plastic or other debris, OceanCare collaborates with rescue organizations to help them as much as possible.
-add screenshot !!!!!!!!!
+
+![screen shot of OceanCare website](oceancare.png)
+
 ### Heuristic Evaluation 
 #### 1. Visibility of System Status
 #### 2. Match between system and the real world
@@ -62,4 +64,4 @@ add screenshot !!!!!!!!!
 #### 9. Help users recognize, diagnose, and recover from errors
 #### 10. Help and documentation
 
-![screen shot of UN](../screenshotofUN.png)
+
