@@ -27,7 +27,7 @@ The chart below displays the 10 heuristics that will be employed in the evaulati
 | 2  | minor usability problem: low priority fix. |
 | 3  | major usability problem: important, high priority fix. |
 
-## Website 1: [Blue Ocean Society] (https://www.blueoceansociety.org/)
+## Website 1: [Blue Ocean Society](https://www.blueoceansociety.org/)
 ### About 
 Blue Ocean Society is a nonprofit organization that works to protect marine life in the Gulf of Maine through researching different marine species’ behaviors, especially whales, and aiding in different cleanup restoration projects. They stress the importance of tackling pollution as a threat to ocean ecosystems as plastic and other types of debris can be ingested by animals. Specific sustainability practices are also promoted by them, such as recycling pieces of fishing lines that wash up to shore by placing bins on beaches. 
 
