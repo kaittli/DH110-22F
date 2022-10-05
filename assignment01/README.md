@@ -37,12 +37,14 @@ Blue Ocean Society is a nonprofit organization that works to protect marine life
 #### 1. Visibility of System Status
 * When the user hovers over/clicks on an item in the primary menu, for example "What We Do", the item area becomes orange instead of blue, which is the color of the overall primary menu when the elements are inactive. This is good for the visibility, but unfortunately, if the user were to click on a secondary menu element, such as "School and Group Programs" (which is in the "What We Do" folder of the primary menu, "What We Do" is no longer orange. 
 * Severity rating: 2
+
 ![screen shot](visible1.png)
 * Suggestion: I believe that clicking on a secondary menu item should still keep the primary item in an active status (turning orange) or else the user may have difficulty in remembering which primary section they are in. 
 
 #### 2. Match between system and the real world
 * Most of the language is pretty intuitive or is taken from real life—clicking through all of the headers, the content should be digestible and understandable for new users. There is some text at times which is a little confusing, such as "Booth-in-a-Box".
 * Severity rating: 1
+
 ![screen shot](match1.png)
 Because of some confusing terminology, the definitions of these terms could be included nex to it.
 
@@ -54,11 +56,13 @@ Because of some confusing terminology, the definitions of these terms could be i
 #### 4. Consistency and standards
 * The beginning items in the primary menu have accordians that are sideways, which deceives the user into thinking that the secondary menu will also popout sideways. However, when hovering over items in the primary menu, it becomes a dropdown list. The function of this accordian element is not consistent with other sites.
 * Severity rating: 2
+
 ![screen shot](consis1.png)
 * Suggestion: Because they are dropdown menus, the accordian should be rotated with the tip facing downwards.
 
 * Additionally, for the subscribe to a newsletter area, there are two subscribe orange boxes. The one on top is in all caps along with the upcoming events box look like cliackable buttons because of the design. However, only the second subscribe box (the one not in all caps) is clickable.
 * Severity rating: 3
+
 ![screen shot](consist1.png)
 * Suggestion: I would redesign the elements that are not buttons to look more like headers for content, which is what its purpose actually is.
 
@@ -70,12 +74,14 @@ Because of some confusing terminology, the definitions of these terms could be i
 #### 6. Recognition rather than recall
 * The logo for this blue ocean site is placed on top of the header picture, making it look like part of the picture, when in actuality, it is a clickable icon that brings the users back to the homepage. Users may not know this and may be searching for how to wayfind back to the homepage. Once figuring it out, users will have to remember that they need to specifically click on the logo section of the picture.
 * Severity rating: 2
+
 ![screen shot](recog1.png)
 * Suggestion: Having the logo placed on top of the header picture instead of over it will communicate more easily to users that the logo is the way to get back to the home page. 
 
 #### 7. Flexibility and efficiency of use
 * The e-blast signup portion has the checkboxes so that users can pick which specific events that they want to subscribe to gain information about in case not everything interests them, which is good. 
 * Severity rating: 1
+
 ![screen shot](flex1.png)
 * Suggestion: It would be better if for the signup, users could input their phone number instead of email being the only option. 
 
@@ -112,6 +118,8 @@ OceanCare is an organization devoted to protecting marine wildlife and related i
 #### 2. Match between system and the real world
 * On top there is the text "DE" and "EN", acronyms signifying German language and English language for translation, but this is information that most likely would not be known to everyone, leaving users confused
 * Severity rating: 2
+
+![screen shot](match2.png)
 * Suggestion: I would either replace the acronyms with German and English, or keep them as is and upon hovering over each of them have a little popup that asks "Translate into ___?" for each respective language.
 * Additionally, the word topical is a header name, which is a less known word than its synonyms of current/recent.
 * Severity rating: 2
@@ -120,21 +128,29 @@ OceanCare is an organization devoted to protecting marine wildlife and related i
 #### 3. User control and freedom
 * There is good freedom overall on the site. What stands out is the social media sidebar—when clicking on the Facebook or Twitter social media icons, it becomes a popup that users can easily click out of rather than redirecting to one of their social media pages, so it is easier to undo if accidentally clicked on. However, the same is not true for the rest of the social media icons.
 * Severity rating: 1
+
+![screen shot](user2.png)
 * Suggestion: I would try to make all of them popups.
 
 #### 4. Consistency and standards
 * The OceanCare site is pretty consistent with other sites, including competitor sites and also has pretty consistent deisgn across its different pages. The main thing that sticks out to me is that all other pages have a header picture, but the "Support" page does not have one.
 * Severity rating: 1
+
+![screen shot](consis2.png)
 * Suggestion: I would include a header picture on the support page as well.
 
 #### 5. Error prevention
 * In the "Contact" section, there is a message that states that fields with an asterisk are required, but none of the fields are labeled with asterisks. The user may try to avoid certain fields but upon trying to skip certain fields, an error message pops up, which is a pain point. This also confuses the users as a mismatch of information is displayed.
 * Severity rating: 3
+
+![screen shot](error2.png)
 * Suggestion: I would make sure all requried fields are actually labeled with asterisks.
 
 #### 6. Recognition rather than recall
 * While hovering over one of the headers, there is no indication of which header is producing the dropdown, which is confusing.
 * Severity rating: 3
+
+![screen shot](recog2.png)
 * Suggestion: There should be a change in status or else users are forced to remember which header got them there.
 
 #### 7. Flexibility and efficiency of use
@@ -145,6 +161,8 @@ OceanCare is an organization devoted to protecting marine wildlife and related i
 #### 8. Aesthetic and minimalist design
 * All of the breadcrumbs start out with OceanCare, but since it is for every menu item, it loses its effectiveness; it's obvious that users are on OceanCare site and might just make it harder to navigate the site.
 * Severity rating: 1
+
+![screen shot](aes2.png)
 * Suggestion: I would remove "OceanCare" from all of the breadcrumbs.
 
 #### 9. Help users recognize, diagnose, and recover from errors
