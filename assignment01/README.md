@@ -1,11 +1,11 @@
 # Assignment 1: Heuristic Evaluation | DH110 | Kaitlyn Li
 
-## Tentative Title: Ocean Preservation, from 
+## Tentative Title: Ocean Preservation, from Microcosm to Macrocosm
 ### About the Project
 
 With conversations surrounding sustainability, the health of the ocean is a topic that is commonly brought up—our oceans have currently been deteriorating at alarming rates due to the numerous threats they are facing as a consequence of human actions. Because of blatant disregard, the ocean has been accumulating trash and plastic in its waters as well as reducing in pH levels because of the increase in carbon dioxide that the ocean has been absorbing. As we all rely on the ocean for its resources and survival, my goal for this UX project is to design a site for users to be able to have easy access to information about the current marine crisis so that they can be well-informed and take daily precautionary measures to help alleviate the current predicament.
 
-### Nielson's 10 Usability Heuristics
+### [Nielson's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 The chart below displays the 10 heuristics that will be employed in the evaulation of 2 different websites:
 | Number  | Heuristic | Description |
 | :------------- | :------------- |:------------- |
@@ -20,14 +20,14 @@ The chart below displays the 10 heuristics that will be employed in the evaulati
 | 9  | Help users recognize, diagnose, and recover from errors  | Error messages should appear when the users make mistakes with explanations for the problem and solution to fix it. |
 | 10 | Help and documentation  | While it’s best for a site’s interface to not require the use of help, help should be offered in the case that a user needs it. |
 
-### Severity Scale
+### [Severity Scale](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Issues
 | Rating  | Description |
 | :------------- | :------------- |
 | 1  | cosmetic problem: does not need to be fixed unless there is extra time for the project. |
 | 2  | minor usability problem: low priority fix. |
 | 3  | major usability problem: important, high priority fix. |
 
-## Website 1
+## Website 1: [Blue Ocean Society] (https://www.blueoceansociety.org/)
 ### About 
 Blue Ocean Society is a nonprofit organization that works to protect marine life in the Gulf of Maine through researching different marine species’ behaviors, especially whales, and aiding in different cleanup restoration projects. They stress the importance of tackling pollution as a threat to ocean ecosystems as plastic and other types of debris can be ingested by animals. Specific sustainability practices are also promoted by them, such as recycling pieces of fishing lines that wash up to shore by placing bins on beaches. 
 
@@ -46,7 +46,7 @@ Blue Ocean Society is a nonprofit organization that works to protect marine life
 #### 10. Help and documentation
 
 
-## Website 2
+## Website 2: [OceanCare](https://www.oceancare.org/en/startpage/)
 ### About
 OceanCare is an organization devoted to protecting marine wildlife and related issues endangering them. Passionate about the safety of the oceans, OceanCare partners with international organizations to formulate treaties and actions against the mistreatment of the oceans and the species home to them. For animals harmed by plastic or other debris, OceanCare collaborates with rescue organizations to help them as much as possible.
 add screenshot !!!!!!!!!
