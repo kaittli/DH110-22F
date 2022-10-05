@@ -8,9 +8,9 @@ With conversations surrounding sustainability, the health of the ocean is a topi
 ### Nielson's 10 Usability Heuristics
 The chart below displays the 10 heuristics that will be employed in the evaulation of 2 different websites:
 | Number  | Heuristic | Description |
-| :-------------: | :-------------: |:-------------: |
-| 1  | Visibility of system status  |
-| 2  | Match between system and the real world  |
+| :------------- | :------------- |:------------- |
+| 1  | Visibility of system status  | Users should be aware of the platform’s current status. |
+| 2  | Match between system and the real world  | The design should use familiar language to the user, such as language that is used in the real world |
 | 3  | User control and freedom  |
 | 4  | Consistency and standards  |
 | 5  | Error prevention  |
