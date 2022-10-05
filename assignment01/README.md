@@ -10,18 +10,22 @@ The chart below displays the 10 heuristics that will be employed in the evaulati
 | Number  | Heuristic | Description |
 | :------------- | :------------- |:------------- |
 | 1  | Visibility of system status  | Users should be aware of the platform’s current status. |
-| 2  | Match between system and the real world  | The design should use familiar language to the user, such as language that is used in the real world |
-| 3  | User control and freedom  |
-| 4  | Consistency and standards  |
-| 5  | Error prevention  |
-| 6  | Recognition rather than recall  |
-| 7  | Flexbility and effciency of use  |
-| 8  | Aesthetic and minimalist design  |
-| 9  | Help users recognize, diagnose, and recover from errors  |
-| 10 | Help and documentation  |
+| 2  | Match between system and the real world  | The design should use familiar language to the user, such as language that is used in the real world. |
+| 3  | User control and freedom  | Users should be able to easily undo their actions in the case that they make an unwanted action. |
+| 4  | Consistency and standards  | The design of the website should follow standard conventions.|
+| 5  | Error prevention  | The design should try to prevent users from making mistakes in the first place, but in an event that an error is made, an error message should be displayed.|
+| 6  | Recognition rather than recall  | To reduce the cognitive load of users, notes can be left to assist users moving through the designs.|
+| 7  | Flexibility and efficiency of use  | There should be shortcut functionalities in place for users of different experience levels. |
+| 8  | Aesthetic and minimalist design  | The website design should only contain relevant information and necessary elements. |
+| 9  | Help users recognize, diagnose, and recover from errors  | Error messages should appear when the users make mistakes with explanations for the problem and solution to fix it. |
+| 10 | Help and documentation  | While it’s best for a site’s interface to not require the use of help, help should be offered in the case that a user needs it. |
 
 ### Severity Scale
-make a chart, link things
+| Rating  | Description |
+| :------------- | :------------- |
+| 1  | cosmetic problem: does not need to be fixed unless there is extra time for the project. |
+| 2  | minor usability problem: low priority fix. |
+| 3  | major usability problem: important, high priority fix. |
 
 ## Website 1
 ### About 
@@ -36,7 +40,7 @@ Blue Ocean Society is a nonprofit organization that works to protect marine life
 #### 4. Consistency and standards
 #### 5. Error prevention
 #### 6. Recognition rather than recall
-#### 7. Flexbility and effciency of use
+#### 7. Flexibility and efficiency of use
 #### 8. Aesthetic and minimalist design
 #### 9. Help users recognize, diagnose, and recover from errors
 #### 10. Help and documentation
@@ -53,7 +57,7 @@ add screenshot !!!!!!!!!
 #### 4. Consistency and standards
 #### 5. Error prevention
 #### 6. Recognition rather than recall
-#### 7. Flexbility and effciency of use
+#### 7. Flexibility and efficiency of use
 #### 8. Aesthetic and minimalist design
 #### 9. Help users recognize, diagnose, and recover from errors
 #### 10. Help and documentation
