@@ -1,5 +1,4 @@
 # Assignment 2: Pilot UT | DH110 | Kaitlyn Li
-
 ## Introduction
 ![screen shot](oceancare.png)
 ### About OceanCare
@@ -11,9 +10,9 @@ The purpose of a usability test is to gather feedback from users in order to imp
 The usability issues I found with the site were as follows:
 | Heuristic Being Tested  | Usability Problem | Task Scenario |
 | :------------- | :------------- |:------------- |
-| Flexibility and efficiency of use | Forced to find sections of the site through just active scrolling as the search button on top does not work | Finding information about sea turtles |
-| User Control and Freedom  | When cliking on the microplastic section, pops up a new tab, have to be forced to click out of it, no back button available| Finding information on microplastics |
-| Error Prevention  | Petition seems to be active, yet cannot contribute and is actually completed upon reading | Finding an active petition |
+| Flexibility and efficiency of use | Forced to find sections of the site through just active scrolling as the search button on top does not work, is not an efficienct way to find information | Finding information about sea turtles |
+| User Control and Freedom  | When clicking on the microplastic section, pops up a new tab and have to be forced to click out of it, no back button available | Finding information on microplastics |
+| Error Prevention  | Petition seems to be active, yet cannot contribute and is actually completed upon reading, which is very misleading to users as they will spend time trying to find where they can put their signature | Finding an active petition |
 
 ## Methodology 
 
@@ -38,9 +37,9 @@ We went through all the aforementioned tasks, with the user providing feedback o
 
 ## Evidence of usability testing
 ### Survey
-Access survey [here.] (https://docs.google.com/forms/d/e/1FAIpQLSfECGLg345Jb3b8KbI97tj9ZLg-k0BHa-y3VU9CIqPGT7wNPw/viewform?usp=sf_link)
+Access survey [here.](https://docs.google.com/forms/d/e/1FAIpQLSfECGLg345Jb3b8KbI97tj9ZLg-k0BHa-y3VU9CIqPGT7wNPw/viewform?usp=sf_link)
 ### Video
-Access Video [here.] (https://drive.google.com/file/d/1gxn-11y92sGmWa3oEngD2aNs4xJQ70VM/view?usp=sharing) note that only people with a UCLA email can access the video
+Access Video [here.](https://drive.google.com/file/d/1gxn-11y92sGmWa3oEngD2aNs4xJQ70VM/view?usp=sharing) note that only people with a UCLA email can access the video
 
 ## Reflection
 Overall, this usability testing went smoothly, but improvements could definitely be made. The main issue that happened is that my wifi cut out right before we got to the task section, so I had to pause the recording and then restart it. I could improve this by just finding better wifi connection for next time as UCLA wifi has not been the most reliable these past weeks. Also, the user was a little bit hasty with doing some of the tasks and did not complete them at times, but I did not want to intervene and make her uncomfortable or possibly ask leading questions to influence her actions in any way. I think that next time I need to find a better balance for when I should be speaking up. I guess it was from the pressure of being recorded, as perhaps the user did not want to mess up on camera, but she was also not as exploratory as I expected. For example, the three tasks involved finding some piece of information/section, and I think for at least one of them I should have framed the task as "search for this" rather than "find this" as I expected the faulty search bar to be brought to light but because the user did not attempt to use it, it is not reflected in the video.
