@@ -14,9 +14,9 @@ Current solutions to the conservation of ocean resources include cutting back on
 The limitations of the online resources relating to ocean sustainability is that there can be greater accessibility to lead to an increase in ocean literacy as well as better online databases of information relating to community connections/efforts to help with ocean issues. 
 ### Target Users
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-Demographics: Anybody of any age who is interested in ocean sustainability because the impact of the ocean is not exclusive to anyone
-Preference: People who current practice sustainable habits and desire to do and learn more, individuals who also live in areas closer to ocean coasts
-Expertise: mainstream, no expertise required
+* Demographics: Anybody of any age who is interested in ocean sustainability because the impact of the ocean is not exclusive to anyone
+* Preference: People who current practice sustainable habits and desire to do and learn more, individuals who also live in areas closer to ocean coasts
+* Expertise: mainstream, no expertise required
 #### In which context (where, why, under which conditions) would the users do that activity? 
 Users would most likely do this activity of learning more information about sustainability towards marine life in their homes and then can take what they have learned and apply it in their daily lives wherever they want. If they wish to get more information about clean up efforts or local events, they can attend those as well. 
 #### What would the users usually do in order to complete that activity? 
