@@ -27,4 +27,5 @@ The interview consisted of the user answering questions on current background re
 ## User Data
 I decided to collect user data through an audio recording, which I also transcribed.
 ## Transcript
+## Important Insights fro Interview
 ## Reflection
