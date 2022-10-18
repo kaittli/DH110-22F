@@ -1,5 +1,4 @@
 # Assignment 3: User Research | DH110 | Kaitlyn Li
-## Description of Project
 ## Research & Requirements
 ### What is the main activity your project would support for the users?
 This project would support users to be more proactive in fighting for marine preservation through encouraging the overall sustainability of the oceans by giving them comprehensive information about marine life so that they can learn more about current efforts and goals. 
@@ -8,7 +7,7 @@ This activity would fulfill multiple needs from Maslow’s Hierarchy.
 * Physiological needs: The state of the ocean is heavily linked to basic necessities—the health of the air, water, food, energy, etc that humans all need to survive/consume. Working towards improving the health of the ocean will improve the health of these resources. 
 * Safety needs: Physical safety and emotional well-being/safety are important for individuals. The current condition of oceans is shaky, with issues such as ocean acidification and pollution becoming more rampant and threatening feelings of safety. 
 * Esteem needs: Helping to alleviate a global issue like this one can provide more respect from other members in society as well as allow users to feel better about themselves. 
-#### What is(are) the traditional/current solution(s) to satisfy the needs?
+### What is(are) the traditional/current solution(s) to satisfy the needs?
 Current solutions to the conservation of ocean resources include cutting back on plastic usage, carbon dioxide emissions, eating sustainable seafood, etc. Users also learn about up-to-date news/information on the state of the ocean and its resources through different websites or social media platforms in order to get involved. 
 ### What is(are) the limitation(s) that possibly would be improved?
 The limitations of the online resources relating to ocean sustainability is that there can be greater accessibility to lead to an increase in ocean literacy as well as better online databases of information relating to community connections/efforts to help with ocean issues. 
