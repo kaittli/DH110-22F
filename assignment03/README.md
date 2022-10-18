@@ -20,9 +20,11 @@ The limitations of the online resources relating to ocean sustainability is that
 #### In which context (where, why, under which conditions) would the users do that activity? 
 Users would most likely do this activity of learning more information about sustainability towards marine life in their homes and then can take what they have learned and apply it in their daily lives wherever they want. If they wish to get more information about clean up efforts or local events, they can attend those as well. 
 #### What would the users usually do in order to complete that activity? 
-Users would type in ocean sustainability into online search platforms to find broad information or organizations working towards that goal. From there, users can employ certain lifestyle changes that are more sustainable and learn more about how to contribute to conserving marine resources.
+Users would type in ocean sustainability into online search platforms to find broad information or organizations working towards that goal. From there, users can learn about employing certain lifestyle changes that are more sustainable and learn more about how to contribute to conserving marine resources. The activity is complete once the user finds a community event that they can attend relating to the topic they researched about.
 ### Research Method
-
+For this activity, I employed both participatory observation as well as an interview process.
+I observed the user while she completed the tasks that I asked of her on her device. I also asked her to think aloud to get a better perspective. 
+The interview consisted of the user answering questions on current background relating to the topic as well as interacting with the topic through tasks. After the user performed the tasks, I also asked follow up questions. 
 ## User Data
 script, recording
 ## Transcript
