@@ -42,6 +42,7 @@ I decided to collect user data through an audio recording, which I also transcri
 > Most of these websites are talking about like larger solutions like those enacted by the government, but I found one website that says “Six practical things that you can do” so I assume it is on an individual level.
  
 :four: The user likes tags, or additional information presented in a concise manner.
+*So what do you think about all of these different events as far as like getting the average individual involved in these like, yeah?*
 > So these are actually really nicely labeled by time commitment, so it’s nice for individuals who don’t want to have a heavy time commitment, like they have two events labeled light time commitment to labeled medium so depending on your time commitment, your schedule, and like how much you’re willing to put in these, they’re definitely events for like every level of commitment or like that any individual is willing to take up and they have a wide range of activities too, it’s not just beach cleanups. 
 
 ## Reflection
