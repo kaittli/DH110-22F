@@ -26,10 +26,10 @@ I observed the user while she completed the tasks that I asked of her on her dev
 The interview consisted of the user answering questions on current background relating to the topic as well as interacting with the topic through tasks. After the user performed the tasks, I also asked follow up questions. 
 ## User Data
 I decided to collect user data through an audio recording, which I also transcribed.
-Link to script [here.](https://docs.google.com/document/d/10rPF9EDdWgFo2T4u-2kxYryF1wJHFZPTcbkg8v5-i0k/edit?usp=sharing)
-Link to audio recording [here.](https://drive.google.com/file/d/1-SpRWFW9bCP-TU8txGCity9fsGIDdRjf/view?usp=sharing)
-Link to video [here.](https://drive.google.com/file/d/1B4uwYZnJV7ebS1JI2JuCC0ojMoxKMrOh/view?usp=sharing) Participant requested to only be filmed during activity portion.
-Link to the transcript [here.](https://docs.google.com/document/d/13premy1Vi-Fj6Pvh1YLcQyR4fWUJ631hcXNZS-BGSXM/edit?usp=sharing)
+* Link to script [here.](https://docs.google.com/document/d/10rPF9EDdWgFo2T4u-2kxYryF1wJHFZPTcbkg8v5-i0k/edit?usp=sharing)
+* Link to audio recording [here.](https://drive.google.com/file/d/1-SpRWFW9bCP-TU8txGCity9fsGIDdRjf/view?usp=sharing)
+* Link to video [here.](https://drive.google.com/file/d/1B4uwYZnJV7ebS1JI2JuCC0ojMoxKMrOh/view?usp=sharing) Participant requested to only be filmed during activity portion.
+* Link to the transcript [here.](https://docs.google.com/document/d/13premy1Vi-Fj6Pvh1YLcQyR4fWUJ631hcXNZS-BGSXM/edit?usp=sharing)
 ## Important Insights from Interview
 :one: The user feels that there is a common misconception about ocean sustainability efforts.
 *Why do you think other individuals may struggle with sustainability efforts towards helping the ocean?*
