@@ -3,7 +3,7 @@
 
 ## Purpose of UX Storytelling
 UX storytelling will be used in this project in order to gain insight into the user’s perspective so that we can discover what design would be most suitable for the target users. Through the usage of personas, empathy maps, scenarios, etc, we can connect to our audience emotionally and focus on what is best for them as users rather than just the product itself. During this process we can uncover different pain points and details about user behavior to take into consideration when developing a product that will ultimately enable the users to achieve their goals.
-## Two tasks to Propose
+## Two Tasks
 1. Be able to easily find lifestyle improvements or just information in general pertaining to a specific subset of information within ocean preservation. Information will be connected much more seamlessly so that users can better access certain details that they are interested in. Sections will be organized in a more coordinated manner so that information is easier to find.
 2. Be able to have a consolidated lists of hands-on events, workshops, cleanup efforts, meetups, etc relating to ocean preservation with the ability to add it to a calendar to easily visualize event with schedule. Users can share the event with other people as well and can download the calendar for latter usage.
 ## Personas and Empathy Maps
