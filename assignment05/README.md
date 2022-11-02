@@ -33,8 +33,8 @@ Task 1 has pink arrow flows while task 2 has purple arrow flows.
 ![screen shot](wireframetesting.jpg)
 ![screen shot](wireframetesting2.jpg)
 Pictures during testing
-![screen shot](test1.jpg)
-![screen shot](test2.jpg)
+![screen shot](test1.jpg| width=100)
+![screen shot](test2.jpg| width=100)
 ## Reflection
 I actually found the process of making low-fidelity prototypes for my tasks to be more challenging than I anticipated. While I was drawing out the different frames, I kept thinking of user flow and what would be most intuitive for the user. I would say that I made multiple changes from what I originally thought would be included in my site. The main features that gave me a hard time was figuring out where to put “Lifestyle Changes” and “Community Efforts” in my website. I originally wanted to make a “get Involved” menu item that included both, but then realized that since the “Lifestyle Changes” were for changes being made to every topic to be learned more about (under “Learn More”, such as “Overfishing”), it would be too disconnected. Therefore, I decided to change the menu item and put lifestyle changes as a section of each topic in “Learn More”. Also, I decided to slightly change my task 1 to not include links to a bunch of possible things the user could purchase instead of plastic because that is not something that would apply to all lifestyle changes. One of the main goals of this website is to have ease of information and is about gaining knowledge, so the aforementioned feature seems a bit off topic—instead, the user suggested to me that I could include links to more informative articles, stating that it would be something that she would use instead of using a search engine again for more details. 
 
