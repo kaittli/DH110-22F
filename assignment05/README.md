@@ -19,11 +19,15 @@ Learn more about my personas and scenarios [here.](https://github.com/kaittli/DH
 ### Purpose of Low-Fidelity Prototyping
 The purpose of low-fidelity prototyping is to ensure the functionality of the product is adequate by making sure that all my necessary features are included and establishing good user flow before developing the product even further. I want to ensure that the product I am designing has a good base in that the rough design with the components is one that is easy and intuitive for users. These wireframes can be tested with actual users and feedback can be taken into account to make edits before moving onto high-fidelity prototypes, which are much more detailed and drawn out. 
 ### Tasks
+*Note: I have slightly modified the first task from the persona after wireframing and thinking about the product more. There will no longer be hyperlinked recommendations in the lifestyle section that will direct users to different sites. Hence, the "Own Impact" goal section also works slightly differently.
 * Task 1: Finding easy lifestyle changes pertaining to a plastic pollution related to ocean sustainability and setting it as a goal.
 * Task 2: Finding and signing up for a community based event and adding it to an exportable calendar.
 ## Wireframes
-
+![screen shot](wireframe1.jpg)
+![screen shot](wireframe2.jpg)
 ## Wireflow
+![screen shot](wireflow1.jpg)
+![screen shot](wireflow2.jpg)
 ## Wireflow Testing
 insert pictures
 ## Reflection
