@@ -29,5 +29,6 @@ The purpose of low-fidelity prototyping is to ensure the functionality of the pr
 ![screen shot](wireflow1.jpg)
 ![screen shot](wireflow2.jpg)
 ## Wireflow Testing
-insert pictures
+![screen shot](wireframetesting.jpg)
+![screen shot](wireframetesting2.jpg)
 ## Reflection
