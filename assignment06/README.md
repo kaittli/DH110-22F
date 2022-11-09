@@ -79,7 +79,7 @@ I used the "Color contrast" plugin on Figma to check the color contrast of all t
 ![screen shot](colorcontrastchecker.png)
 ## Design Summary
 *Note: The logo used for this website was a wave icon taken from the "Iconify" plugin on Figma.*
-![screen shot](lightdesign.png)
+![screen shot](light_design.png)
 **Typeface**
 **Color variations**
 **Layout grid**
