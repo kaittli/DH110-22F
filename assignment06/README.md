@@ -1,11 +1,15 @@
 # Assignment 6: Interface Design | DH110 | Kaitlyn Li
 ## Project Description
+The purpose of this project is to create a website where people of all ages who are interested in sustainability can learn about different ocean sustainability topics and get involved through finding community events or learning simple lifestyle changes they can implement. To encourage users to continually engage with the site, they can also document their progress and participation in helping to mitigate ocean sustainability. Through time, they can hopefully realize that every small change that they make as individuals can result in a large collective change for the ocean’s health. 
 ### Purpose of Interface Design
+The purpose of interface design is to create a digital representation that ensures that the functionality of the website meshes with the aesthetics so that all the features and content can be displayed in a comprehensible manner. This design takes what was drawn during the low-fidelity stages and further advances all of the different elements by specifying typography, colors, layout, etc. It can also allow designers to understand user preferences through feedback and find ways to facilitate user interaction. 
 ### Initial Wireframe
 ![screen shot](initialwireframe.jpeg)
 I decided to design the “Track your Goals” page because there were a few different elements on there that are not present on the other pages, so I thought that finding cohesion between the elements on this page would better inform my design moving forward. This page contains the header along with header elements (logo, search icon, menu icon), goals checklist with caption, a pie chart for percentage of goals reached, and a progress bar for the number of points overall accumulated. 
 
 There are a few differences between the screen that I designed and this initial wireframe as this assignment will utilize the design of the website in mobile form, while the initial wireframe was intended for a desktop. Thus, the elements on this page that are aligned horizontally will instead be shifted vertically. There will also be slight additional details included due to feedback from the wireflow testing from the last assignment.
+
+For this assignment, I designed everything in Figma.
 ### URL Link for Screen Designs
 ## Screen Design
 ## Typographic variations
@@ -43,7 +47,7 @@ The final colors that I used in my design are below.
 | 00484D | Completed tab, scroll |
 ## Layout testing
 ![screen shot](layout.png)
-The details of the layout grid that I used are below.
+I decided to first organize some of the main elements before moving into all of the little details. For the main elements I used a less complex grid and for the little elements I used a grid with more rows and columns. The details of the layout grid that I used are below.
 
 Inital layout grid for first elements:
 | Rows  | Columns | 
@@ -58,8 +62,10 @@ Additional styling for other elements:
 | 36 | 12 | 
 | Margin 20px | Margin 32px |
 | Gutter 10px | Gutter 20px |
-## Components
 ## Impression Test
 ## Accessibility (color-contrast) check
+I used the "Color contrast" plugin on Figma to check the color contrast of all the different elements. All of the text passed the 4.5 contrast ratio. I treated the checkboxes (second to last frame) and the scroll (last frame) to operate similarly to buttons as they are not text, so they passed the 3 contrast ratio accordingly.
+
 ![screen shot](colorcontrastchecker.png)
 ## Design System
+*Note: The logo used for this website was a wave icon taken from the "Iconify" plugin on Figma.*
