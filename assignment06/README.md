@@ -48,6 +48,7 @@ The final colors that I used in my design are below.
 | 00484D | Completed tab, scroll |
 ## Layout testing
 ![screen shot](layout.png)
+
 I decided to first organize some of the main elements before moving into all of the little details. For the main elements I used a less complex grid and for the little elements I used a grid with more rows and columns. The details of the layout grid that I used are below.
 
 Inital layout grid for first elements:
