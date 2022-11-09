@@ -71,7 +71,30 @@ Link to impression test 1 [here.](https://drive.google.com/file/d/1vsAeZWi0LzqTN
 Link to impression test 2 [here.](https://drive.google.com/file/d/1xj2kltPoKNC6oQ2Y0W8YVG-7JPxQBhZ5/view?usp=sharing)
 
 *Note: Access to audio files given only to UCLA email addresses.*
-Findings from the impression tests:
+
+### Findings from the impression tests:
+* Initial Impressions
+  * Orange color pops out
+  * Thought it looks organized
+* What was noticed first
+  * Pie chart 
+  * OceanCare logo
+  * Goals checklist
+* What the website is about
+  * Could identify that the website somehow related to the ocean
+  * Could identify that the page we were on is related to goals
+  
+#### Shape
+The third shape variation (tabs) was overall preferred because the space in between/indent helped it to resemble that they were separate elements. The overall shape also resembled tabs more in the real world like dividers on a folder. 
+#### Color
+The first screen with only varying shades of blue seemed a little bit too monotone—elements all blended together. They liked the inclusion of orange into the screens as it drew attention to elements and provided more contrast.
+Both had differing opinions on the dark mode—one thought it made elements pop out more against the screen while the other thought that it drew attention to the elements that shouldn’t be receiving the most attention and made the words harder to read.
+#### Typography
+Overall fonts 2 (Lato) and 4 (Nunito) were preferred over the other two (Lora and Quicksand)
+* Font 1 Lora seemed too textbook-like and not appealing to the eye
+* Font 2 Lato was more bold
+* Font 3 Quicksand was more casual and too light, which could make it difficult to read
+* Font 4 Nunito mixed both formal and casual
 
 ## Accessibility (color-contrast) check
 I used the "Color contrast" plugin on Figma to check the color contrast of all the different elements. All of the text passed the 4.5 contrast ratio. I treated the checkboxes (second to last frame) and the scroll (last frame) to operate similarly to buttons as they are not text, so they passed the 3 contrast ratio accordingly.
@@ -80,6 +103,7 @@ I used the "Color contrast" plugin on Figma to check the color contrast of all t
 ## Design Summary
 *Note: The logo used for this website was a wave icon taken from the "Iconify" plugin on Figma.*
 ![screen shot](light_design.png)
+![screen shot](dark_design.png)
 **Typeface**
 **Color variations**
 **Layout grid**
