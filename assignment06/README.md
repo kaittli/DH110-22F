@@ -11,6 +11,7 @@ There are a few differences between the screen that I designed and this initial 
 
 For this assignment, I designed everything in Figma.
 ### URL Link for Screen Designs
+Access Figma file (with all variations and the final screens) [here.](https://www.figma.com/file/ScNH6IIRz7GmkQdxxjWWtW/Interface-Design?node-id=0%3A1)
 ## Screen Design
 ## Typographic variations
 ![screen shot](typography.png)
@@ -26,7 +27,7 @@ The details for the font I used are below.
 | Goal title | Nunito | 20px  | Bold |
 | Statistic % | Nunito | 24px  | SemiBold |
 | Statistic text | Nunito | 16px  | SemiBold |
-| Point tracker | Nunito | 12px  | Medium |
+| Point tracker text | Nunito | 12px  | Medium |
 | All other text | Nunito | 12px  | Regular |
 ## Shape variations
 ![screen shot](shape.png)
@@ -63,9 +64,23 @@ Additional styling for other elements:
 | Margin 20px | Margin 32px |
 | Gutter 10px | Gutter 20px |
 ## Impression Test
+I conducted an impression test with two different individuals.
+
+Link to impression test 1 [here.](https://drive.google.com/file/d/1vsAeZWi0LzqTNPqiq66iyUGrdXHSHXkn/view?usp=sharing)
+
+Link to impression test 2 [here.](https://drive.google.com/file/d/1xj2kltPoKNC6oQ2Y0W8YVG-7JPxQBhZ5/view?usp=sharing)
+
+*Note: Access to audio files given only to UCLA email addresses.*
+Findings from the impression tests:
+
 ## Accessibility (color-contrast) check
 I used the "Color contrast" plugin on Figma to check the color contrast of all the different elements. All of the text passed the 4.5 contrast ratio. I treated the checkboxes (second to last frame) and the scroll (last frame) to operate similarly to buttons as they are not text, so they passed the 3 contrast ratio accordingly.
 
 ![screen shot](colorcontrastchecker.png)
-## Design System
+## Design Summary
 *Note: The logo used for this website was a wave icon taken from the "Iconify" plugin on Figma.*
+![screen shot](lightdesign.png)
+**Typeface**
+**Color variations**
+**Layout grid**
+
