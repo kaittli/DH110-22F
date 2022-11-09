@@ -2,6 +2,7 @@
 ## Project Description
 ### Purpose of Interface Design
 ### Initial Wireframe
+![screen shot](initialwireframe.jpeg)
 I decided to design the “Track your Goals” page because there were a few different elements on there that are not present on the other pages, so I thought that finding cohesion between the elements on this page would better inform my design moving forward. This page contains the header along with header elements (logo, search icon, menu icon), goals checklist with caption, a pie chart for percentage of goals reached, and a progress bar for the number of points overall accumulated. 
 
 There are a few differences between the screen that I designed and this initial wireframe as this assignment will utilize the design of the website in mobile form, while the initial wireframe was intended for a desktop. Thus, the elements on this page that are aligned horizontally will instead be shifted vertically. There will also be slight additional details included due to feedback from the wireflow testing from the last assignment.
