@@ -42,7 +42,7 @@ The final colors that I used in my design are below.
 | EB905C | Scrollbar, pie chart 2, progress bar 2 |
 | 00484D | Completed tab, scroll |
 ## Layout testing
-![screen shot](Layout.png)
+![screen shot](layout.png)
 The details of the layout grid that I used are below.
 
 Inital layout grid for first elements:
