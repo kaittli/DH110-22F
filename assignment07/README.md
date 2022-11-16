@@ -27,7 +27,7 @@ Link to full Figma wireflow [here.](https://www.figma.com/file/9dtRHXEObBjDwFgdw
 
 ![screenshot](wireflow2.png)
 ## Prototype
-Link to my interactive prototype, first interation [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=4%3A152&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A152)
+Link to my interactive prototype, first iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=4%3A152&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A152)
 ## Cognitive Walkthrough
 Link to Google Form used to collect survey responses [here.](https://docs.google.com/forms/d/e/1FAIpQLSf8j6SLnwGxk2ljNRoR4Y7QThJVRdVRnyLnKoY71-PAIBJSrg/viewform)
 
@@ -40,3 +40,14 @@ Overall, the cognitive walkthrough was extremely insightful. The process went by
 - When clicking on “Find More Events” after signing up for a community event, users are brought back to the initial page with the filters reset. However, since they have input the filters once already, they do not want to go through the trouble of doing it again. To fix this, upon clicking that button, I would return to the page with the filters they had initially input and the user could choose to edit the filters if they pleased. 
 3. Logos should indicate a return to the home page.
 - I did not initially prototype the logo to return to the home page because I left breadcrumbs at the top of pages with return states; however, users have revealed that it is something standard that they expect. I would prototype all of the logos to return to the home page for my next iteration.
+## Revisions
+I implemented all of the changes that I mentioned above (Findings 1, 2, and 3) along with a few minor fixes. I made the “Event Database” and “Signed Up Events” elements to be the same width as a user had also commented that it was confusing that they were of different widths. Additionally, on the home page, I made a few key words in the “Why Help” section larger to draw more attention to them and urge a greater call to action. I also altered the scroll bar and extended it as since the bar only took up half of the scrollbar, it was giving the user an indication that there was even more to be scrolled down. However, there were not enough “In Progress” tasks to give that effect. Thus, I made the scroll take up the entirety of the scroll bar—the scroll itself will decrease in size/be responsive to new entries in the “In Progress” section. Lastly, the minor change I made was renaming the “Ongoing Ocean Crisis Issues” page to “Ongoing Issues” so the breadcrumbs would not be confusing. 
+
+### Revised Wireflows
+*Purple arrows represent task 1 while pink arrows represent task 2—the singular black arrow works for both tasks.*
+#### Task 1
+![screenshot](wireflow3.png)
+#### Task 2
+![screenshot](wireflow4.png)
+
+Link to my interactive prototype, second iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=159%3A778&scaling=scale-down&page-id=156%3A283&starting-point-node-id=159%3A778)
