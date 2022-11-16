@@ -19,11 +19,11 @@ Link to full Figma wireflow [here.](https://www.figma.com/file/9dtRHXEObBjDwFgdw
 *Note that task 1 autoflow arrows are purple while task 2 autoflow arrows are pink.*
 
 ### Wireflow 1
-> Disclaimer: Some of the interactions regarding overlay are missing from the picture below because of autoflow's limitations. For task 1, I only displayed the dropdown menu interaction with the main page screen due to it being an overlay and it looking very messy with autoflow if I did it to all screens. However, I did prototype the interaction with all the screens on Figma.*
+> Disclaimer: Some of the interactions regarding overlay are missing from the picture below because of autoflow's limitations. For task 1, I only displayed the dropdown menu interaction with the main page screen due to it being an overlay and it looking very messy with autoflow if I did it to all screens. However, I did prototype the interaction with all the screens on Figma.
 
 ![screenshot](wireflow1.png)
 ### Wireflow 2
-> Disclaimer: Just like task 1, I only displayed the dropdown menu interaction with the main page screen for task 2 due to it being an overlay and it looking very messy with autoflow if I did it to all screens. However, I did prototype the interaction with all the screens on Figma. Additionally, I did display all the interactions via autoflow for task 2, but again, it is a little bit strange due to autoflow limitations.*
+> Disclaimer: Just like task 1, I only displayed the dropdown menu interaction with the main page screen for task 2 due to it being an overlay and it looking very messy with autoflow if I did it to all screens. However, I did prototype the interaction with all the screens on Figma. Additionally, I did display all the interactions via autoflow for task 2, but again, it is a little bit strange due to autoflow limitations.
 
 ![screenshot](wireflow2.png)
 ## Prototype
