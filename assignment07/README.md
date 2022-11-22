@@ -1,5 +1,5 @@
 # Assignment 7: High-Fidelity Prototype | DH110 | Kaitlyn Li
-## Overview—Ocean Preservation: From Microcosm to Macrocosm
+## Overview—Ocean Preservation: Microcosm to Macrocosm
 ### Project Description 
 My project focuses on designing a website for people who are interested in sustainability and making a change towards ocean conservation. I hope that this project can encourage users to learn more about and advocate for the health of the ocean as well as realize that every small change that they make is valuable and can lead to large, collective change.
 ### Purpose of High-Fidelity Prototype
@@ -70,10 +70,9 @@ The main findings were:
 ### Preference Test
 Regarding finding 1 of the in class cognitive walkthrough, I was unsure about what kind of button I should include in my design. I thought about using the same blue button component I had been using for all the buttons in my prototype, but the button did not pass the color contrast test against the background of the checklist. Because of that, I was torn between what style of confirm button I should ultimately include. I decided to make three variations and conducted a [preference test.](https://usabilityhub.com/guides/preference-testing) Similarly, I was also torn between which colors to make the different popups if I were to include different button colors, so I made three variations of the popups as well and also asked users what they preferred.
 
-![image](PopupPreference.png)
-![image](OwnGoalsPreference.png)
-
 The responses of the preference tests can be summarized below:
+
+<img src="OwnGoalsPreference.png" height="600">
 
 #### Button Preference
 | User Number  | Button 1 (white text) | Button 2 (lilac) | Button 3 (blue) |
@@ -82,6 +81,8 @@ The responses of the preference tests can be summarized below:
 | 2 | do not like, does not look like button | like the connection that it is inside the box, purple is ok | the blue button is more clear and looks more clickable than the second one, conflicted because it is outside the box |
 | 3 | does not look like a button, would not click it | likes this one best because it is connected, so looks like it is related in some way | also likes this one, might be kind of confusing |
 
+<img src= "PopupPreference.png" height="600" >
+
 #### Popup Preference
 | User Number  | Popup 1 (white/blue) | Popup 2 (turquoise/lilac) | Popup 3 (dark blue/lilac) |
 | :------------- | :------------- | :------------- | :------------- |
@@ -89,9 +90,10 @@ The responses of the preference tests can be summarized below:
 | 2 | like this one the best, the white is the most simple | does not stand out because too much of the same color  | does not know how to feel about the dark popup, non-traditional feeling |
 | 3 | the white allows the popup to stand out the most | too uniform in color, might not be good for a popup | likes this one the best because it is the most eyecatching |
 
-I was conflicted on which button variation to go with. I knew that option 1 would easily not work as it wasn’t a traditional button. The second version featured a lilac button that I would make a secondary button color for some specific buttons while the third version featured the standard blue button color but outside the progress checklist so that the button to background contrast ratio would be high enough. I designed for the second version to have a lilac button instead because it was able to pass the color contrast check against the background it was placed in. The blue button was not able to pass against the turquoise checklist background, so I moved the button outside instead. However, looking at the responses from the preference test, I could tell that the original blue button was still preferable, yet users liked how the button was inside the checklist. To be able to keep both of those elements, I decided to design the “Track Your Goals” page with a white “In Progress” background so that the blue button could pass the color contrast check. Afterwards, I showed the screen to the same users, in which I got good feedback on. Additionally, I decided to go with the first variation for the popup as it matched with the white and the blue and got the best feedback out of all.
+I was conflicted on which button variation to go with. I knew that option 1 would easily not work as it wasn’t a traditional button. The second version featured a lilac button that I would make a secondary button color for some specific buttons while the third version featured the standard blue button color but outside the progress checklist so that the button to background contrast ratio would be high enough. I designed for the second version to have a lilac button instead because it was able to pass the color contrast check against the background it was placed in. The blue button was not able to pass against the turquoise checklist background, so I moved the button outside instead. However, looking at the responses from the preference test, I could tell that the original blue button was still preferable, yet users liked how the button was inside the checklist. To be able to keep both of those elements, I decided to design the “Track Your Goals” page with a white “In Progress” background so that the blue button could pass the color contrast check and be moved inside. Afterwards, I showed the screen to the same users, in which I got good feedback on. Additionally, I decided to go with the first variation for the popup (popup 1 white/blue) as it matched with the button screen and got the best feedback out of all.
 
-![image](OwnGoals7.png)
+<img src="OwnGoals7.png" height="600">
+
 ## Other Additional Revisions
 I implemented all of the changes that I mentioned would do above in both cognitive walkthroughs along with a few minor fixes. I made the “Event Database” and “Signed Up Events” elements to be the same width as a user had also commented that it was confusing that they were of different widths. I also altered the scroll bar and extended it as since the bar only took up half of the scrollbar, it was giving the user an indication that there was even more to be scrolled down. However, there were not enough “In Progress” tasks to give that effect. Thus, I made the scroll take up the entirety of the scroll bar—the scroll itself will decrease in size/be responsive to new entries in the “In Progress” section. 
 
