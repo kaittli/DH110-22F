@@ -28,7 +28,7 @@ Link to full Figma wireflow [here.](https://www.figma.com/file/9dtRHXEObBjDwFgdw
 ![screenshot](wireflow2.png)
 ## Prototype
 Link to my interactive prototype [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=4%3A152&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A152)
-## Cognitive Walkthrough Pt. 1 (Non-in class)
+## Cognitive Walkthrough Pt. 1 (Outside of class)
 *Note: I performed a cognitive walkthrough independently and also performed one in class with peers—this portion will reference the walkthrough I did outside of class as the response collection was slightly different as I made my own Google form. The in class cognitive walkthrough will be displayed after this section.
 
 Link to Google Form used to collect survey responses [here.](https://docs.google.com/forms/d/e/1FAIpQLSf8j6SLnwGxk2ljNRoR4Y7QThJVRdVRnyLnKoY71-PAIBJSrg/viewform)
@@ -68,15 +68,33 @@ The main findings were:
 >Revision: For the home page, I would bold/increase the text size of the specific statistics so that they would pop out more as well as make key words in the “Why Help” section larger to draw more attention to them and urge a greater call to action.
 
 ### Preference Test
-Regarding finding 1 of the in class cognitive walkthrough, I was unsure about what kind of button I should include. I thought about using the same blue button component I had been using for all the buttons in my prototype, but the button did not pass the color contrast test against the background of the checklist. Because of that, I was torn between what style of confirm button I should ultimately include so I made three variations and conducted a preference test. The first version was not a traditional button; the second version featured a lilac button that I would make a secondary button color for some specific buttons (the lilac passed the color contrast check against the background it was placed; the third version featured the same button color but outside the progress checklist so that the button to background contrast ratio would be high enough. 
-Additionally, ______
-- insert screenshots
+Regarding finding 1 of the in class cognitive walkthrough, I was unsure about what kind of button I should include in my design. I thought about using the same blue button component I had been using for all the buttons in my prototype, but the button did not pass the color contrast test against the background of the checklist. Because of that, I was torn between what style of confirm button I should ultimately include. I decided to make three variations and conducted a [preference test.](https://usabilityhub.com/guides/preference-testing) Similarly, I was also torn between which colors to make the different popups if I were to include different button colors, so I made three variations of the popups as well and also asked users what they preferred.
 
+![image](PopupPreference.png)
+![image](OwnGoalsPreference.png)
 
+The responses of the preference tests can be summarized below:
 
+#### Button Preference
+| User Number  | Button 1 (white text) | Button 2 (lilac) | Button 3 (blue) |
+| :------------- | :------------- | :------------- | :------------- |
+| 1 | does not stand out that much and might be hard to visibly understand that it is something you need to click to accomplish task | Second one is fine but does not look as aesthetically pleasing to the eye | like the placement and the color better, just prefer the aesthetics |
+| 2 | do not like, does not look like button | like the connection that it is inside the box, purple is ok | the blue button is more clear and looks more clickable than the second one, conflicted because it is outside the box |
+| 3 | does not look like a button, would not click it | likes this one best because it is connected, so looks like it is related in some way | also likes this one, might be kind of confusing |
+
+#### Popup Preference
+| User Number  | Popup 1 (white/blue) | Popup 2 (turquoise/lilac) | Popup 3 (dark blue/lilac) |
+| :------------- | :------------- | :------------- | :------------- |
+| 1 | stands out the most and looks like something that you need to pay attention to | matches too much with the background and does not stand out as much  | Dark one stands out but not in a good way |
+| 2 | like this one the best, the white is the most simple | does not stand out because too much of the same color  | does not know how to feel about the dark popup, non-traditional feeling |
+| 3 | the white allows the popup to stand out the most | too uniform in color, might not be good for a popup | likes this one the best because it is the most eyecatching |
+
+I was conflicted on which button variation to go with. I knew that option 1 would easily not work as it wasn’t a traditional button. The second version featured a lilac button that I would make a secondary button color for some specific buttons while the third version featured the standard blue button color but outside the progress checklist so that the button to background contrast ratio would be high enough. I designed for the second version to have a lilac button instead because it was able to pass the color contrast check against the background it was placed in. The blue button was not able to pass against the turquoise checklist background, so I moved the button outside instead. However, looking at the responses from the preference test, I could tell that the original blue button was still preferable, yet users liked how the button was inside the checklist. To be able to keep both of those elements, I decided to design the “Track Your Goals” page with a white “In Progress” background so that the blue button could pass the color contrast check. Afterwards, I showed the screen to the same users, in which I got good feedback on. Additionally, I decided to go with the first variation for the popup as it matched with the white and the blue and got the best feedback out of all.
+
+![image](OwnGoals7.png)
 ## Other Additional Revisions
-I implemented all of the changes that I mentioned would do above (Findings 1, 2, and 3) along with a few minor fixes. I made the “Event Database” and “Signed Up Events” elements to be the same width as a user had also commented that it was confusing that they were of different widths. I also altered the scroll bar and extended it as since the bar only took up half of the scrollbar, it was giving the user an indication that there was even more to be scrolled down. However, there were not enough “In Progress” tasks to give that effect. Thus, I made the scroll take up the entirety of the scroll bar—the scroll itself will decrease in size/be responsive to new entries in the “In Progress” section. 
+I implemented all of the changes that I mentioned would do above in both cognitive walkthroughs along with a few minor fixes. I made the “Event Database” and “Signed Up Events” elements to be the same width as a user had also commented that it was confusing that they were of different widths. I also altered the scroll bar and extended it as since the bar only took up half of the scrollbar, it was giving the user an indication that there was even more to be scrolled down. However, there were not enough “In Progress” tasks to give that effect. Thus, I made the scroll take up the entirety of the scroll bar—the scroll itself will decrease in size/be responsive to new entries in the “In Progress” section. 
 
-Link to my interactive prototype, first iteration [here.]
+Link to my interactive prototype, first iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=159%3A778&scaling=scale-down&page-id=156%3A283&starting-point-node-id=159%3A778)
 
 ## Usability Testing
