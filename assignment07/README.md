@@ -27,7 +27,7 @@ Link to full Figma wireflow [here.](https://www.figma.com/file/9dtRHXEObBjDwFgdw
 
 ![screenshot](wireflow2.png)
 ## Prototype
-Link to my interactive prototype[here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=4%3A152&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A152)
+Link to my interactive prototype [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=4%3A152&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A152)
 ## Cognitive Walkthrough Pt. 1 (Non-in class)
 *Note: I performed a cognitive walkthrough independently and also performed one in class with peers—this portion will reference the walkthrough I did outside of class as the response collection was slightly different as I made my own Google form. The in class cognitive walkthrough will be displayed after this section.
 
@@ -67,9 +67,16 @@ The main findings were:
 - Users thought that some of the text on the main page was too small and made some of the content unclear.
 >Revision: For the home page, I would bold/increase the text size of the specific statistics so that they would pop out more as well as make key words in the “Why Help” section larger to draw more attention to them and urge a greater call to action.
 
-## Further Revisions
+### Preference Test
+Regarding finding 1 of the in class cognitive walkthrough, I was unsure about what kind of button I should include. I thought about using the same blue button component I had been using for all the buttons in my prototype, but the button did not pass the color contrast test against the background of the checklist. Because of that, I was torn between what style of confirm button I should ultimately include so I made three variations and conducted a preference test. The first version was not a traditional button; the second version featured a lilac button that I would make a secondary button color for some specific buttons (the lilac passed the color contrast check against the background it was placed; the third version featured the same button color but outside the progress checklist so that the button to background contrast ratio would be high enough. 
+Additionally, ______
+- insert screenshots
+
+
+
+## Other Additional Revisions
 I implemented all of the changes that I mentioned would do above (Findings 1, 2, and 3) along with a few minor fixes. I made the “Event Database” and “Signed Up Events” elements to be the same width as a user had also commented that it was confusing that they were of different widths. I also altered the scroll bar and extended it as since the bar only took up half of the scrollbar, it was giving the user an indication that there was even more to be scrolled down. However, there were not enough “In Progress” tasks to give that effect. Thus, I made the scroll take up the entirety of the scroll bar—the scroll itself will decrease in size/be responsive to new entries in the “In Progress” section. 
 
-Regarding finding 1 of the in class cognitive walkthrough, I was unsure about , I conducted a preference test. 
-- insert screenshots
 Link to my interactive prototype, first iteration [here.]
+
+## Usability Testing
