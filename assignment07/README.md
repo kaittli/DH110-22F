@@ -54,14 +54,14 @@ Overall, the cognitive walkthrough was extremely insightful. The process went by
 >Revision: I would prototype all of the logos to return to the home page for my next iteration. 
 
 ## Cognitive Walkthrough Pt. 2 (In Class)
-Two of my peers in this DH110 class did the cognitive walkthrough using the Google Form that our professor, Dr. Cho, provided. The cognitive walkthrough that I conducted was done virtually, so it was nice that this one was done in person. I think that being able to talk to each other face to face did help the process seem more engaging.
+Two of my peers in this DH110 class did the cognitive walkthrough using the Google Form that our professor, Dr. Cho, provided. The cognitive walkthrough that I conducted was done virtually, so it was nice that this one was done in person and it flowed smoothly. I think that being able to talk to each other face to face did help the process seem more engaging.
 
 Link to the responses [here.](https://docs.google.com/document/d/1qtvRXtE7puC761L92Wjf1lw4LVsqHnJbCXCq5yljL7k/edit?usp=sharing)
 ### Findings
 The main findings of this walkthrough were:
-1. Users want to be alerted before abrupt changes.
+1. Users want to be alerted before abrupt changes in state.
 - A user believed that the functionality of the "Track Your Goals" page was strange. The way it currently worked was the page would automatically update with the goal tracker progress/percentage after clicking on the pen icon. However, the process felt too abrupt.
->Revision: I would add a confirmation button so that the user can confirm that they want the current in progress goals to be included in the goal tracker right after writing.
+>Revision: I would add a confirmation button so that the user can confirm that they want the current in progress goals to be included in the goal tracker right after writing. Before writing the goal, the button will be inactive and afterwards, the button will activate.
 
 2. Users want decent contrast between elements so that attention can be adequately drawn to important information.
 - Users thought that some of the text on the main page was too small and made some of the content unclear.
@@ -72,25 +72,25 @@ Regarding finding 1 of the in class cognitive walkthrough, I was unsure about wh
 
 The responses of the preference tests can be summarized below:
 
+#### Button Preference
 <img src="OwnGoalsPreference.png" height="600">
 
-#### Button Preference
 | User Number  | Button 1 (white text) | Button 2 (lilac) | Button 3 (blue) |
 | :------------- | :------------- | :------------- | :------------- |
 | 1 | does not stand out that much and might be hard to visibly understand that it is something you need to click to accomplish task | Second one is fine but does not look as aesthetically pleasing to the eye | like the placement and the color better, just prefer the aesthetics |
 | 2 | do not like, does not look like button | like the connection that it is inside the box, purple is ok | the blue button is more clear and looks more clickable than the second one, conflicted because it is outside the box |
 | 3 | does not look like a button, would not click it | likes this one best because it is connected, so looks like it is related in some way | also likes this one, might be kind of confusing |
 
+#### Popup Preference
 <img src= "PopupPreference.png" height="600" >
 
-#### Popup Preference
 | User Number  | Popup 1 (white/blue) | Popup 2 (turquoise/lilac) | Popup 3 (dark blue/lilac) |
 | :------------- | :------------- | :------------- | :------------- |
 | 1 | stands out the most and looks like something that you need to pay attention to | matches too much with the background and does not stand out as much  | Dark one stands out but not in a good way |
 | 2 | like this one the best, the white is the most simple | does not stand out because too much of the same color  | does not know how to feel about the dark popup, non-traditional feeling |
 | 3 | the white allows the popup to stand out the most | too uniform in color, might not be good for a popup | likes this one the best because it is the most eyecatching |
 
-I was conflicted on which button variation to go with. I knew that option 1 would easily not work as it wasn’t a traditional button. The second version featured a lilac button that I would make a secondary button color for some specific buttons while the third version featured the standard blue button color but outside the progress checklist so that the button to background contrast ratio would be high enough. I designed for the second version to have a lilac button instead because it was able to pass the color contrast check against the background it was placed in. The blue button was not able to pass against the turquoise checklist background, so I moved the button outside instead. However, looking at the responses from the preference test, I could tell that the original blue button was still preferable, yet users liked how the button was inside the checklist. To be able to keep both of those elements, I decided to design the “Track Your Goals” page with a white “In Progress” background so that the blue button could pass the color contrast check and be moved inside. Afterwards, I showed the screen to the same users, in which I got good feedback on. Additionally, I decided to go with the first variation for the popup (popup 1 white/blue) as it matched with the button screen and got the best feedback out of all.
+I was conflicted on which button variation to go with. I knew that option 1 would easily not work as it wasn’t a traditional button. The second version featured a lilac button that I would make a secondary button color for some specific buttons while the third version featured the standard blue button color, but outside the progress checklist so that the button to background contrast ratio would be high enough. I designed for the second version to have a lilac button instead because it was able to pass the color contrast check against the background it was placed in. The blue button was not able to pass against the turquoise checklist background, so I moved the button outside instead. However, looking at the responses from the preference test, I could tell that the original blue button was still preferable, yet users liked how the button was inside the checklist. To be able to keep both of those elements, I decided to design the “Track Your Goals” page with a white “In Progress” background so that the blue button could pass the color contrast check and be moved inside. Afterwards, I showed the screen to the same users, in which I got good feedback on. Additionally, I decided to go with the first variation for the popup (popup 1 white/blue) as it matched with the button screen and got the best feedback out of all.
 
 <img src="OwnGoals7.png" height="600">
 
@@ -103,7 +103,10 @@ Link to my interactive prototype, 1st iteration [here.](https://www.figma.com/pr
 ## Usability Testing
 The usability tests overall went smoothly with a few small disruptions such as a phone call, needing to turn on the light, etc. The users flew through the tasks fairly quickly. I found that for task 1, most of the users did not bother looking/reading the actual lifestyle changes, which factored into my decision of moving the “Set a Goal” button further down the page as I mention below.
 I conducted the usability tests with three different users over Zoom. They interacted with the first iteration of my prototype—the version after the cognitive walkthroughs.
-View the tests below. *Access only given to UCLA email addresses*
+
+View the tests below. 
+
+*Access only given to UCLA email addresses*
 
 Access [Usability testing 1](https://drive.google.com/file/d/1Z4TAfy9_9tlqN0K1Btp4L9ooQrYVo59R/view?usp=sharing)
 
@@ -117,16 +120,20 @@ Link to the Google sheets data [here.](https://docs.google.com/spreadsheets/d/1L
 
 ### Main Findings
 1. Users want strong feedback after an important action.
-- A user mentioned that the “Confirm Goals” section should give more feedback to the users after adding in each goal. 
->Revision: I would add a confirmation popup after the goal was set. I will also add a more dramatic animation, such as Smart animate, so that users can detect a change in the screen more clearly after the interaction.
+- A user mentioned that the “Confirm Goals” button should give more feedback to the users after adding in each goal. 
+>Revision: I would add a confirmation popup after the goal was set. I will also add a more dramatic animation to the page, such as Smart animate, so that users can detect a change in the screen more clearly after the interaction. 
 
 2. Users want images to advance their understanding rather than be distracting.
 - A user mentioned that some of the pictures on the “Ongoing Issues” page were somewhat distracting from the text as the pictures had too much going on. Also, the fifth topic in particular (eutrophication) was distracting because it was in the middle.
 >Revision: I would find simpler pictures to include inside and also make each topic picture larger so that it is more clear. I will also shift the fifth topic to the left, which may work well in the case that another topic is eventually added to the page, then there is space for the 6th one.
 
+3. Users have associations/biases to colors in their heads.
+- It was brought up that a user did not think the orange for the "Track Your Goals" page was fitting and recommended green instead as it reminds them of progress.
+>Revision: I thought that this was a good point as green is associated with growth and change, so it would match well for the pie chart and progress bar which will update. I changed the orange to a green that I ran through the color contrast checker and passed accordingly. 
+
 ## Other Findings
 Once again, I implemented all of the revisions that I said I would do above for each of the findings as well as some other minor ones. 
-Through this testing, I have found that a larger majority of people actually seemed to prefer for the “Set a Goal” button to be below all of the lifestyle changes on the “Plastic Pollution” page. I initially had it on the bottom of the page and then moved it to the middle along with a sentence description for my first iteration as a user mentioned that the button was not as discoverable on the bottom. However, I do agree that with the button being in the middle, most people do not actually read the lifestyle changes, which is something I noticed throughout my usability testing. Therefore, I will move the button back to the bottom so that users can actually read about the different lifestyle changes before setting a goal. I will alter the sentence underneath the lifestyle changes header to indicate that there is a button below. I also decided to replace the orange in the pie charts and progress checker with green as a user had mentioned that green reminds them about progress, which I thought was a good point. Another small improvement is that I decided to add how many miles away each event was in the database so that it would be more clear that the database contains only individual events as a user mentioned that she was confused what exactly the database is showing. 
+Through this testing, I have found that a larger majority of people actually seemed to prefer for the “Set a Goal” button to be below all of the lifestyle changes on the “Plastic Pollution” page. I initially had it on the bottom of the page and then moved it to the middle along with a sentence description for my first iteration as a user mentioned that the button was not as discoverable on the bottom. However, I do agree that with the button being in the middle, most people do not actually read the lifestyle changes, which is something I noticed throughout my usability testing. Therefore, I will move the button back to the bottom so that users can actually read about the different lifestyle changes before setting a goal. I will alter the sentence underneath the lifestyle changes header to indicate that there is a button below. Another small improvement is that I decided to add how many miles away each event was in the database so that it would be more clear that the database contains only individual events as a user mentioned that she was confused what exactly the database is showing. 
 
 ## Prototype, 2nd Iteration
 Link to my prototype, 2nd iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=365%3A1233&scaling=scale-down&page-id=365%3A668&starting-point-node-id=365%3A1233)
