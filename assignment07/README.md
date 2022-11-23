@@ -100,3 +100,20 @@ I implemented all of the changes that I mentioned would do above in both cogniti
 Link to my interactive prototype, first iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=159%3A778&scaling=scale-down&page-id=156%3A283&starting-point-node-id=159%3A778)
 
 ## Usability Testing
+The usability tests overall went smoothly with a few small disruptions such as a phone call, needing to turn on the light, etc.
+I conducted the usability tests with three different users over Zoom. They interacted with the first iteration of my prototype—the version after the cognitive walkthrough.
+View the tests below. *Access only given to UCLA email addresses*
+
+Access [Usability testing 1](https://drive.google.com/file/d/1Z4TAfy9_9tlqN0K1Btp4L9ooQrYVo59R/view?usp=sharing)
+
+Access [Usability testing 2](https://drive.google.com/file/d/1uDStxYWPpHMCo8D1NDwq9rQpC8udYvE2/view?usp=sharing)
+
+Access [Usability testing 3](https://drive.google.com/file/d/1MH4mCbnMChzKpessxzx3oGxQDBfMA5FX/view?usp=sharing)
+
+Link to the Google form used [here.](https://docs.google.com/forms/d/e/1FAIpQLSdwNhoNKGDL6BtL_kYPwcCml71ustAmcm-ikSWJkQV_vZpvpQ/viewform?usp=sf_link)
+
+Link to the Google sheets data [here.](https://docs.google.com/spreadsheets/d/1LehU790S5UPbMAOQHrP_paSEQA1C5o8xw54oBt7Bdg0/edit?usp=sharing)
+
+### Findings
+
+## Overall Major Changes (Revisions)
