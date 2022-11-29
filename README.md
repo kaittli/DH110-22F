@@ -27,6 +27,7 @@ After usability testing, it was time to do user research so that I could obtain 
 Once I gained more understanding on what users interested in sustainability would be looking for in a website like OceanCare, I developed two personas: 
 
 Persona 1 was Victoria Lancaster, a single mother of 2 who recently moved from the Midwest to the beachside of San Diego where she has been exposed to marine issues, but has limited time to dedicate.
+
 |**Victoria's Persona**|
 |------------------|
 |![vic's persona](./assignment04/persona1.png)|
@@ -37,6 +38,7 @@ Persona 1 was Victoria Lancaster, a single mother of 2 who recently moved from t
 
 Persona 2 was Charlie Dobbs, a college student involved in a marine environmental science club looking for more hands-on events to attend with his friends and club members.
 Each of these personas face different challenges and have different goals, so I used that framework to inform the features that I wanted to include. I also developed empathy maps, journey maps, and unique scenarios that would represent two typical interactions with the website that satisfy their needs.
+
 |**Charlie's Persona**|
 |------------------|
 |![char's persona](./assignment04/persona2.png)|
@@ -59,6 +61,7 @@ Using my persona scenarios, I created rough wireframes on my iPad to visualize m
 *Note: My wireframes reflect the desktop version of my prototype, but from here onwards, I am designing for the mobile version as per Dr. Cho’s recommendation.*
 
 This step involved formalizing some of the actual design elements I would want to use in my prototype. I chose the “Track Your Goals” page as my screen because there were various distinct elements on the page that would be interesting to decide how to make cohesive. All of my designs were made in Figma. I used many variations of typography, color, layout, shape, etc and got user feedback to finalize what interface design I should proceed with. Additionally, my color scheme was tested for accessibility via the color contrast plugin on Figma. I wanted my overall design to be interesting and intuitive for users.
+
 |**Interface Design**|
 |------------------|
 |![lightdesign](./assignment06/light_design.png)|
@@ -76,7 +79,8 @@ My prototype underwent 2 revisions—one after the cognitive walkthrough and ano
 ### Cognitive walkthroughs
 I conducted both an independent cognitive walkthrough and one in class. They both involved new users testing my Figma prototype and answering some accompanying questions on a Google Form. I had various important key takeaways such as the importance of confirmation popups, using unambiguous labels, and sufficient contrast in elements. 
 ### Preference Test
-Some of the elements that I had internal debate over was put into a preference test to ask users what is ideal for them. I asked three users their thoughts for three button variations and three popup variations. There were both good and bad points to the 2nd and 3rd button variation, so I decided to combine feedback from both of them to create a final novel button variation which I received approval for. I then decided on using the 1st popup variation as the white was overall found to be the most representative of a popup
+Some of the elements that I had internal debate over was put into a preference test to ask users what is ideal for them. I asked three users their thoughts for three button variations and three popup variations. There were both good and bad points to the 2nd and 3rd button variation, so I decided to combine feedback from both of them to create a final novel button variation which I received approval for. I then decided on using the 1st popup variation as the white was overall found to be the most representative of a popup.
+
 |**Button Preference**|**Popup Preference**|
 |------------------|------------------|
 |![buttonpref](./assignment07/OwnGoalsPreference.png)|![popuppref](./assignment07/PopupPreference.png)|
@@ -88,6 +92,7 @@ After the cognitive walkthroughs and the preference test, I made the changes tha
 I obtained three different new users over Zoom and asked them to test my Figma prototype. This was more in depth than the cognitive walkthroughs because I asked them introductory questions relating to their backgrounds as well as follow-up questions regarding their satisfaction with specific features of my website. I was also watching over each of the users as they were engaging with the prototype to gather their facial expressions and genuine feelings towards their experience. I made sure that the users could not see the detailed steps to the tasks in the usability testing and only asked afterwards if they were able to complete each step. These usability tests led to three main findings that were extremely useful in making the finishing touches to my prototype. I decided to add an additional confirmation popup, change some of the images, and swap out the orange color in the “Track Your Goals” page for a dark green. 
 
 **Some of my final screens**
+
 |**Main Page**|**Community Events**|**Ongoing Issues**|
 |------------------|------------------|------------------|
 |![main](./finalimages/mainpage.png)|![main](./finalimages/community.png)|![main](./finalimages/ongoing.png)|
