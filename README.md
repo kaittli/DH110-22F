@@ -64,7 +64,7 @@ This step involved formalizing some of the actual design elements I would want t
 
 |**Interface Design**|
 |------------------|
-|![lightdesign](./assignment06/light_design.png)|
+|<img src= "https://github.com/kaittli/DH110-22F/blob/main/assignment06/light_design.png" width="500" />|
 
 **Learn more about my interface design [here.](https://github.com/kaittli/DH110-22F/blob/main/assignment06/README.md)**
 
@@ -91,13 +91,40 @@ After the cognitive walkthroughs and the preference test, I made the changes tha
 ### New Usability Tests
 I obtained three different new users over Zoom and asked them to test my Figma prototype. This was more in depth than the cognitive walkthroughs because I asked them introductory questions relating to their backgrounds as well as follow-up questions regarding their satisfaction with specific features of my website. I was also watching over each of the users as they were engaging with the prototype to gather their facial expressions and genuine feelings towards their experience. I made sure that the users could not see the detailed steps to the tasks in the usability testing and only asked afterwards if they were able to complete each step. These usability tests led to three main findings that were extremely useful in making the finishing touches to my prototype. I decided to add an additional confirmation popup, change some of the images, and swap out the orange color in the “Track Your Goals” page for a dark green. 
 
-**Some of my final screens**
+**Some of my final screens:**
 
-|**Main Page**|**Community Events**|**Ongoing Issues**|
-|------------------|------------------|------------------|
-|![main](./finalimages/mainpage.png)|![main](./finalimages/community.png)|![main](./finalimages/ongoing.png)|
-|**Event Finder**|**Track Goals**|**Plastic Pollution**|
-|![main](./finalimages/event.png)|![main](./finalimages/goals.png)|![main](./finalimages/plastic.png)|
+<table>
+  <thead>
+    <tr>
+      <th>Main Page</th>
+      <th>Ongoing Issues</th>
+      <th>Plastic Pollution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/mainpage.png" height="800px"></td>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/ongoing.png" height="800px"></td>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/plastic.png" height="800px"></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Track Goals</th>
+      <th>Community Events</th>
+      <th>Event Finder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/goals.png" height="600px"></td>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/community.png" height="600px"></td>
+      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/event.png" height="600px"></td>
+    </tr>
+  </tbody>
+</table>
 
 **Access my high-fidelity prototype, 2nd iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=365%3A1233&scaling=scale-down&page-id=365%3A668&starting-point-node-id=365%3A1233)**
 ## Pitch Video
