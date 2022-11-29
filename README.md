@@ -64,7 +64,7 @@ This step involved formalizing some of the actual design elements I would want t
 
 |**Interface Design**|
 |------------------|
-|<img src= "https://github.com/kaittli/DH110-22F/blob/main/assignment06/light_design.png" width="500" />|
+|<img src= "https://raw.githubusercontent.com/kaittli/DH110-22F/main/assignment06/light_design.png" width="500" />|
 
 **Learn more about my interface design [here.](https://github.com/kaittli/DH110-22F/blob/main/assignment06/README.md)**
 
@@ -103,9 +103,9 @@ I obtained three different new users over Zoom and asked them to test my Figma p
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/mainpage.png" height="800px"></td>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/ongoing.png" height="800px"></td>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/plastic.png" height="800px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/mainpage.png" height="800px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/ongoing.png" height="800px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/plastic.png" height="800px"></td>
     </tr>
   </tbody>
 </table>
@@ -119,9 +119,9 @@ I obtained three different new users over Zoom and asked them to test my Figma p
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/goals.png" height="600px"></td>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/community.png" height="600px"></td>
-      <td><img src="https://github.com/kaittli/DH110-22F/blob/main/finalimages/event.png" height="600px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/goals.png" height="600px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/community.png" height="600px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/event.png" height="600px"></td>
     </tr>
   </tbody>
 </table>
