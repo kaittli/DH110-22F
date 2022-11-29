@@ -88,12 +88,11 @@ After the cognitive walkthroughs and the preference test, I made the changes tha
 I obtained three different new users over Zoom and asked them to test my Figma prototype. This was more in depth than the cognitive walkthroughs because I asked them introductory questions relating to their backgrounds as well as follow-up questions regarding their satisfaction with specific features of my website. I was also watching over each of the users as they were engaging with the prototype to gather their facial expressions and genuine feelings towards their experience. I made sure that the users could not see the detailed steps to the tasks in the usability testing and only asked afterwards if they were able to complete each step. These usability tests led to three main findings that were extremely useful in making the finishing touches to my prototype. I decided to add an additional confirmation popup, change some of the images, and swap out the orange color in the “Track Your Goals” page for a dark green. 
 
 **Some of my final screens**
-|**Main Page**|**Ongoing Issues**|**Plastic Pollution**|
+|**Main Page**|**Community Events**|**Ongoing Issues**|
 |------------------|------------------|------------------|
-|![main](./finalimages/mainpage.png)|![main](./finalimages/ongoing.png)|![main](./finalimages/plastic.png)|
-|**Track Goals**|**Community Events**|**Event Finder**|
-|------------------|------------------|------------------|
-|![main](./finalimages/goals.png)|![main](./finalimages/community.png)|![main](./finalimages/event.png)|
+|![main](./finalimages/mainpage.png)|![main](./finalimages/community.png)|![main](./finalimages/ongoing.png)|
+|**Event Finder**|**Track Goals**|**Plastic Pollution**|
+|![main](./finalimages/event.png)|![main](./finalimages/goals.png)|![main](./finalimages/plastic.png)|
 
 **Access my high-fidelity prototype, 2nd iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=365%3A1233&scaling=scale-down&page-id=365%3A668&starting-point-node-id=365%3A1233)**
 ## Pitch Video
