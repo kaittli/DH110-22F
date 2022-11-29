@@ -78,8 +78,13 @@ Based on my low-fidelity designs and wireflows, I proceeded with creating a high
 My prototype underwent 2 revisions—one after the cognitive walkthrough and another after the usability testing. I was able to identify users’ pain points with the design and made changes accordingly such as shifting the placement of buttons, adding more popups, altering the color scheme, etc.
 ### Cognitive walkthroughs
 I conducted both an independent cognitive walkthrough and one in class. They both involved new users testing my Figma prototype and answering some accompanying questions on a Google Form. I had various important key takeaways such as the importance of confirmation popups, using unambiguous labels, and sufficient contrast in elements. 
+
+**Learn more about my cognitive walkthrough [here.](https://github.com/kaittli/DH110-22F/blob/main/assignment07/README.md#cognitive-walkthrough-pt-1-outside-of-class)**
+
 ### Preference Test
 Some of the elements that I had internal debate over was put into a preference test to ask users what is ideal for them. I asked three users their thoughts for three button variations and three popup variations. There were both good and bad points to the 2nd and 3rd button variation, so I decided to combine feedback from both of them to create a final novel button variation which I received approval for. I then decided on using the 1st popup variation as the white was overall found to be the most representative of a popup.
+
+**Learn more about my preference test [here.](https://github.com/kaittli/DH110-22F/blob/main/assignment07/README.md#preference-test)**
 
 |**Button Preference**|**Popup Preference**|
 |------------------|------------------|
@@ -90,6 +95,8 @@ After the cognitive walkthroughs and the preference test, I made the changes tha
 **Access my high-fidelity prototype, 1st iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=159%3A778&scaling=scale-down&page-id=156%3A283&starting-point-node-id=159%3A778)**
 ### New Usability Tests
 I obtained three different new users over Zoom and asked them to test my Figma prototype. This was more in depth than the cognitive walkthroughs because I asked them introductory questions relating to their backgrounds as well as follow-up questions regarding their satisfaction with specific features of my website. I was also watching over each of the users as they were engaging with the prototype to gather their facial expressions and genuine feelings towards their experience. I made sure that the users could not see the detailed steps to the tasks in the usability testing and only asked afterwards if they were able to complete each step. These usability tests led to three main findings that were extremely useful in making the finishing touches to my prototype. I decided to add an additional confirmation popup, change some of the images, and swap out the orange color in the “Track Your Goals” page for a dark green. 
+
+**Learn more about my new usability testing [here.](https://github.com/kaittli/DH110-22F/blob/main/assignment07/README.md#usability-testing)**
 
 **Some of my final screens:**
 
@@ -129,5 +136,6 @@ I obtained three different new users over Zoom and asked them to test my Figma p
 **Access my high-fidelity prototype, 2nd iteration [here.](https://www.figma.com/proto/9dtRHXEObBjDwFgdwTQRGm/Hifi-prototype?node-id=365%3A1233&scaling=scale-down&page-id=365%3A668&starting-point-node-id=365%3A1233)**
 ## Pitch Video
 - embed iframe video
+
 ## Conclusion
 Overall, I learned valuable lessons about UX design throughout working on this OceanCare project. I have never developed such an in-depth prototype before, especially one that went through all of the steps of the UX design process. I learned important lessons of catering to the users’ needs and how despite everything, not all users can be fully satisfied. I had to make certain design tradeoffs as there will always be a few people with different preferences. I also got firsthand experience into the iterative nature of design, which allowed me to go into everything with an open mind as things easily change based on the feedback that I received. Additionally, I believe that this project taught me to be more organized with my work and to focus even on meaningful foundational details that would have great influence in my work further into the design process. Seeing all of the iterations and drafts that this project went through, I realize the importance of keeping drafts of old work to see all the development. I have also learned and accepted that design is not meant to be easy and quick—it is the constant altering and improving of past work that makes the process worthwhile. If I were to do this project again from the beginning, I would place more emphasis on some of the earlier assignments because I do not think I realized just how much it would relate to my final designs because at that point in time, it felt very far away from my tangible designs. I would also have liked to conduct more impression tests and preference tests so that I could get a stronger sense of user satisfaction and preferences prior to them testing my prototype. Moving forward, I would like to further develop this prototype with more interactions and screens beyond supporting the two tasks we were asked of. Overall, this project has been very meaningful to me and I am grateful for everything that I have learned while completing it.
