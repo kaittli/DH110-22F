@@ -110,9 +110,9 @@ I obtained three different new users over Zoom and asked them to test my Figma p
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/mainpage.png" height="800px"></td>
-      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/ongoing.png" height="800px"></td>
-      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/plastic.png" height="800px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/mainpage.png" height="700px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/ongoing.png" height="700px"></td>
+      <td><img src="https://raw.githubusercontent.com/kaittli/DH110-22F/main/finalimages/plastic.png" height="700px"></td>
     </tr>
   </tbody>
 </table>
